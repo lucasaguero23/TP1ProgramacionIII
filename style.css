@@ -102,3 +102,13 @@ span p {
   vertical-align: middle;
   margin-right: 8px;
 }
+
+.apartados:hover {
+  transform: scale(1.02);
+  box-shadow: black;
+}
+
+.apartados a:hover {
+  color: red;
+  text-decoration: underline;
+}
