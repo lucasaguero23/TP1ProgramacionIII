@@ -112,3 +112,8 @@ span p {
   color: red;
   text-decoration: underline;
 }
+
+#tabla {
+  text-decoration: none;
+  color: blue;
+}
