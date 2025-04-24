@@ -79,17 +79,26 @@ span p {
   color: #333;
 }
 
-.apartados ul, .apartados ol {
+.apartados ul,
+.apartados ol {
   margin: 0;
   padding-left: 20px;
   color: #555;
 }
 
-.apartados p, .apartados a {
+.apartados p,
+.apartados a {
   color: #555;
 }
 
 .apartados a {
   text-decoration: none;
-  color:blue;
+  color: blue;
+}
+
+.apartados #icono {
+  width: 20px;
+  height: 20px;
+  vertical-align: middle;
+  margin-right: 8px;
 }
