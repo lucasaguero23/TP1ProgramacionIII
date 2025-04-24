@@ -1,3 +1,9 @@
-h1 {
-  color: red;
+body {
+  background-color: #3a3a3a;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 0;
+  font-family: cursive;
+  animation: fadeIn 0.4s ease-in-out;
 }
