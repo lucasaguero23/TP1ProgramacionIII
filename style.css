@@ -46,6 +46,7 @@ span {
   justify-content: center;
 }
 
+/* aca uso el ELEMENTO ELEMENTO */
 span h1 {
   margin: 0;
   font-size: 2em;
@@ -79,6 +80,7 @@ span p {
   color: #333;
 }
 
+/* y aca uso el ELEMENTO, ELEMENTO */
 .apartados ul,
 .apartados ol {
   margin: 0;
@@ -117,6 +119,8 @@ span p {
   text-decoration: none;
   color: blue;
 }
+
+/* Estilos que encontre en internet */
 
 @keyframes fadeIn {
   from {
